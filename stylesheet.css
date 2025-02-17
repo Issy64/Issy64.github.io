@@ -7,6 +7,14 @@ body {
   font-family: "Hiragino Kaku Gothic ProN";
 }
 
+header p{
+  color: rgb(255, 255, 255);
+  line-height: 65px;
+  display: inline;
+  position: relative;
+  left: 300px;
+}
+
 a {
   text-decoration: none;
 }
